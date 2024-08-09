@@ -3,7 +3,7 @@
     "title": "应用脚手架",
     "description": "开发php94应用的起点",
     "license": "GPL-3.0",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "php94",
     "require": {
         "php94/framework": "^1.0",

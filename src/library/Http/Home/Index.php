@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace App\Php94\Demo\Http\Home;
 
-use PHP94\Facade\Db;
+use PHP94\Db;
 
 class Index extends Common
 {

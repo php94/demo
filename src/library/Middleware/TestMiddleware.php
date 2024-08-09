@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace App\Php94\Demo\Middleware;
 
-use PHP94\Facade\Factory;
+use PHP94\Factory;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;
 use Psr\Http\Server\MiddlewareInterface;

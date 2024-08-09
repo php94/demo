@@ -1,6 +1,6 @@
 <?php
 
-use PHP94\Help\Package;
+use PHP94\Package;
 
 return [
     'install' => function () { //安装的时候需要的操作，通常是创建表

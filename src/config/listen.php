@@ -8,7 +8,7 @@ use App\Php94\Demo\Http\Home\Index;
 use App\Php94\Demo\Middleware\TestMiddleware;
 use PHP94\Cache\LocalCache;
 use PHP94\Container\Container;
-use PHP94\Handler\Handler;
+use PHP94\Handler;
 use PHP94\Request;
 use PHP94\Router\Router;
 use Psr\SimpleCache\CacheInterface;
